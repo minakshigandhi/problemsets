@@ -1,0 +1,14 @@
+  412  git push
+  413  vi oops
+  414  rm oops
+  415  ls
+  418  ls
+  419  vi oops
+  420  git add oops
+  421  git commit -m oops
+  422  git push
+  423  man rm
+  424  unixBasics.history.txt
+  425  print history
+  426  echo histroy
+  427  history
